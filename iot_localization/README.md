@@ -1,5 +1,5 @@
 # Indoor BLE Localization System
-## Final Year Project — Telecommunications Engineering
+
 
 ---
 
